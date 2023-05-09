@@ -1,2 +1,5 @@
-# microservice_download_enquiry_forms
-receives enquiry form from users , saves to database and automatically triggers an email to email address(es) provided
+# DOWNLOAD ENQUIRY FORMS (Microservice)
+
+A microservice for businesses that allows users to fill and send enquiry forms.
+When the form hits the database, it triggers a mail to the resepective recipient for swift response.
+This was a request from Yannish Evenst (UK)
